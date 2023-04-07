@@ -12,6 +12,6 @@
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-algorithms/)
 <br>
-[Preview Certificate](https://drive.google.com/file/d/1stpeU1ih6bq5EXq67sXOK-o8cbkixFV8/view?usp=sharing) 
+[Preview Certificate](https://drive.google.com/file/d/1JbKGph-ThEcKFjdGof1fCxU0j1a75X_Q/view?usp=sharing) 
 <br>
-[Preview Certificate in LinkedIn](https://www.linkedin.com/learning/certificates/80ed315aeeac8415aa7ec1e7c9b74d5cca1c78bd3a350a7e01b269f363b92362?trk=share_certificate)
+[Preview Certificate in LinkedIn](https://www.linkedin.com/learning/certificates/082a06ec8b24ef73425a0fa015289025dbf4ba42acef4c4a62d44097aa77a5cd?trk=share_certificate)
