@@ -15,5 +15,5 @@
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/)
 <br>
-[Preview Certificate](https://drive.google.com/file/d/1JR9Ft8izpM730bNzITPDxOIMQxIV6XJ5/view?usp=sharing)
-<br>[Preview Certificate in LinkedIn](https://www.linkedin.com/learning/certificates/25a4fc763ee417fbbdc64339a8115758e04b91b6b8903601b8a22871b4ef5304?trk=share_certificate)
+[Preview Certificate](https://drive.google.com/file/d/1JzZnaIEdGVa08TYcRyGCu_9zmGUaq4E9/view?usp=sharing)
+<br>[Preview Certificate in LinkedIn](https://www.linkedin.com/learning/certificates/ccef75fab324ce219adf7edac4f922f043a168841e3286cca19d0e78839e0692?trk=share_certificate)
