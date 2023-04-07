@@ -13,5 +13,5 @@
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
 <br>
-[Preview Certificate](https://drive.google.com/file/d/1IY_mczjQ3v4uKiwBN4n7iFakUi9cC1hT/view?usp=sharing)
-<br>[Preview Certificate in LinkedIn](https://www.linkedin.com/learning/certificates/e630743834f111cd409566dffefb6dcf5061f9827e0ceba0bb152d48a50da735?trk=share_certificate)
+[Preview Certificate](https://drive.google.com/file/d/1xF4obzkw1oDVfQfFnYVkslETEAnVDGkO/view?usp=sharing)
+<br>[Preview Certificate in LinkedIn](https://www.linkedin.com/learning/certificates/dac3c7b044681d71e7a45ea760c3c5dba4ba2c5af664238f00704a1aa596e3bd?trk=share_certificate)
