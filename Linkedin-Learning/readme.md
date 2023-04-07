@@ -1,43 +1,43 @@
 1. Programming Foundations: Fundamentals
 
-[Preview Certification](https://www.linkedin.com/learning/certificates/d21d392b37305baea3f9e7961b9b64280509afeefaee37a8cdd36c9be2c1c24d?trk=share_certificate)
+[Preview Certification](https://www.linkedin.com/learning/certificates/2c9d63f2c68b32021606976d23b022b0671d7d2454ceaadfd61d619fa9dc4388?trk=share_certificate)
 
 2. Programming Foundations: Beyond the Fundamentals
 
-[Preview Certification](https://www.linkedin.com/learning/certificates/e800f384856558c3a9c9442d47c533af453c91dad691f684a918c80a780ddd68?trk=share_certificate)
+[Preview Certification](https://www.linkedin.com/learning/certificates/199845aaf03eee21048f6c724df3e845eba200af949316b0a5c87f0a778af81b?trk=share_certificate)
 
 3. Programming Foundations: Object-Oriented Design
 
 
-[Preview Certification](https://www.linkedin.com/learning/certificates/a8a9ff31738e757012809b404c8d3dda9d6c236e70beb1c8fad1d27ce25e2ac3?trk=share_certificate)
+[Preview Certification](https://www.linkedin.com/learning/certificates/e76f1024ea4a6f059a6f992b2f25b76d04186707295bd271a860d491cb160e07?trk=share_certificate)
 
 4. Programming Foundations: Algorithms
 
-[Preview Certification](https://www.linkedin.com/learning/certificates/80ed315aeeac8415aa7ec1e7c9b74d5cca1c78bd3a350a7e01b269f363b92362?trk=share_certificate)
+[Preview Certification](https://www.linkedin.com/learning/certificates/082a06ec8b24ef73425a0fa015289025dbf4ba42acef4c4a62d44097aa77a5cd?trk=share_certificate)
 
 5. Programming Foundations: Data Structures
 
-[Preview Certification](https://www.linkedin.com/learning/certificates/3762b3518cde2a9df50fe3b1fea973f8af0945b1deaa94e33c23490231f3d422?trk=share_certificate)
+[Preview Certification](https://www.linkedin.com/learning/certificates/9347961c01b9a432892c94aee1d7aad0e54a2e2e23907dd767722ac355d7b4ed?trk=share_certificate)
 
 6. Programming Foundations: Design Patterns
 
-[Preview Certification](https://www.linkedin.com/learning/certificates/25a4fc763ee417fbbdc64339a8115758e04b91b6b8903601b8a22871b4ef5304?trk=share_certificate)
+[Preview Certification](https://www.linkedin.com/learning/certificates/ccef75fab324ce219adf7edac4f922f043a168841e3286cca19d0e78839e0692?trk=share_certificate)
 
 7. Programming Foundations: Databases
 
-[Preview Certification](https://www.linkedin.com/learning/certificates/692fbb73c9215d1fdfa9359c640527c8fd08d77c17904a8be6e9a2fbda72bd86?trk=share_certificate)
+[Preview Certification](https://www.linkedin.com/learning/certificates/723bbfab039fc0483c24467b8e89b08ab437ac05cfdc8f24a1a03cca2e8fb362?trk=share_certificate)
 
 8. Programming Foundations: APIs and Web Services
 
-[Preview Certification](https://www.linkedin.com/learning/certificates/f8107c4077d1771a1f32018bcc1ce9d202a23b8934c41b54f003d5aab0eba4f7?trk=share_certificate)
+[Preview Certification](https://www.linkedin.com/learning/certificates/3b0c967461ce666fbf36d0a30f5b6084b33c3819c65baf5e72128a22a6881624?trk=share_certificate)
 
 9. Programming Foundations: Software Testing/QA
 
-[Preview Certification](https://www.linkedin.com/learning/certificates/e630743834f111cd409566dffefb6dcf5061f9827e0ceba0bb152d48a50da735?trk=share_certificate)
+[Preview Certification](https://www.linkedin.com/learning/certificates/dac3c7b044681d71e7a45ea760c3c5dba4ba2c5af664238f00704a1aa596e3bd?trk=share_certificate)
 
-10. Git Essential Training: The Basics
+10. Learning Github
 
-[Preview Certification](https://www.linkedin.com/learning/certificates/00590997ee7cbf152a09d93aa2d141a8b2f45ca08a7c875bc07800ebd33cee79?trk=share_certificate)
+[Preview Certification](https://www.linkedin.com/learning/certificates/adb07d85e60c08cbc3ad5ffb16cdf05845266d2feb0a609c04668f3d50f7bf35?trk=share_certificate)
 
 11. HTML Essential Training
 
