@@ -1,4 +1,4 @@
-# Git Essential Training: The Basics
+# Learning GitHub 
 ### Course details
 - Learn how to use Git, the popular open-source version control software, to manage the source code for almost any project. In this course, Kevin Skoglund explores the fundamental concepts behind version control systems and the Git architecture. Using a step-by-step approach, he shows how to install Git and presents the commands that enable efficient code management. Learn how to add, change, and delete files in the repository; view a log of previous commits; and compare versions of a file. Plus, see how to undo changes to files and ignore certain files in a Git repository.
 
@@ -11,5 +11,5 @@
 - Analyze Git features for ignoring files and directories.
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/git-essential-training-the-basics)
-<br>[Preview Certificate](https://drive.google.com/file/d/18nEwwpthNCKtKQeSNE2aTqC8yn2wTQB4/view?usp=sharing)
-<br>[Preview Certificate in LinkedIn](https://www.linkedin.com/learning/certificates/00590997ee7cbf152a09d93aa2d141a8b2f45ca08a7c875bc07800ebd33cee79?trk=share_certificate)
+<br>[Preview Certificate](https://drive.google.com/file/d/1ioA_EFvetJ-GzrHIjDV5M5D4q2iCig4N/view?usp=sharing)
+<br>[Preview Certificate in LinkedIn](https://www.linkedin.com/learning/certificates/adb07d85e60c08cbc3ad5ffb16cdf05845266d2feb0a609c04668f3d50f7bf35?trk=share_certificate)
